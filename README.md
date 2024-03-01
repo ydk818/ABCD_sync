@@ -4,7 +4,7 @@ This repository is the NERVE Lab's modified ABCD Data History from Release 2.0 (
 
 
 
-## 2. Baseline (2.0)
+## 2.  Release 2.0 
 
 ### 2.1 Raw 
 ### 2.1.1 Analysis Results
@@ -21,7 +21,7 @@ VACC Directory:
 /gpfs2/scratch/Julian/ABCD_HCP_BIDS/nback_dtseries
 ###### b. NBack Connectivity
 
-## 3. Baseline (3.0)
+## 3.  Release 3.0 
 ### 3.3.1 Raw 
 VACC Directory:
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/ABCDStudyNDAr3
@@ -32,20 +32,20 @@ VACC Directory:
 VACC Directory:
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
 
-## 4. Year-1 (4.0)
+## 4.  Release 4.0
 
 ## 4.1 Raw
 
 /gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4
 
-## 5. Year-2 (5.0)
+## 5.  Release 5.0 
 
 ### 3.3.1 Raw 
 ### 3.3.2 Images
 VACC Directory:
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_5/tfmri
 
-## 6. Year-2 (6.0)
+## 6.  Release 6.0
 
 ### 3.3.1 Raw 
 ### 3.3.2 Images
