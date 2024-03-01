@@ -1,15 +1,15 @@
 # ABCD_sync
 ## 1. Introduction
-This repository is the NERVE Lab's modified ABCD Data from Release 2.0 (Baseline), Release 3.0 (Baseline) Release 4.0 (Followup Year 1), Release 5.0 (Followup Year 2), and Release 6.0 (Followup Year 2). 
+This repository is the NERVE Lab's modified ABCD Data from Release 2.0 (Baseline), Release 3.0 (Baseline), Release 4.0 (Followup Year 1), Release 5.0 (Followup Year 2), and Release 6.0 (Followup Year 2). 
 
 
 
 ## 2.  Release 2.0 
 
-### 2.1 Raw 
-### 2.1.1 Analysis Results
+### 2.1 NDA
+### 2.1.1 Studies
 ### a. Nifti Brain Maps (Consortium Paper)
-### b. SST Response 
+### b. SST Response Paper 
 ### 2.2 Modified
 #### 2.2.1 Images
 ##### 2.2.1.1 DAIRC
