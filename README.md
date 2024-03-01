@@ -1,6 +1,6 @@
 # ABCD_sync
 ## 1. Introduction
-This repository is the NERVE Lab's modified ABCD Data History from 2.0 (Baseline), 3.0 (Baseline) 4.0 (Followup Year 1), 3.0 (Followup Year 1), 5.0 (Followup Year 2) and 6.0 (Followup Year 2).
+This repository is the NERVE Lab's modified ABCD Data History from Release 2.0 (Baseline), Release 3.0 (Baseline) Release 4.0 (Followup Year 1), Release 5.0 (Followup Year 2), and Release 6.0 (Followup Year 2).
 
 
 
