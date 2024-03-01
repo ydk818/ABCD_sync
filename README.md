@@ -38,7 +38,7 @@ VACC Directory:
 
 /gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4
 
-## 5. Year-2 (6.0)
+## 5. Year-2 (5.0)
 
 ### 3.3.1 Raw 
 ### 3.3.2 Images
