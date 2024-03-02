@@ -47,7 +47,11 @@ VACC Directory:
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
 ### 3.2 Modified 
 #### 3.2.1 NDA 
-
+VACC Directory:
+/gpfs1/home/s/a/sahahn/ABCD_Data
+#### 3.2.2 Imaging
+##### a. SST ((contrast_beta, vertex, subcortical vertex_qced))
+/gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data
 
 ## 4.  Release 4.0
 
