@@ -6,16 +6,21 @@ This repository is the NERVE Lab's modified ABCD Data from Release 2.0 (Baseline
 
 ## 2.  Release 2.0 
 
-### 2.1 NDA
-### 2.1.1 Studies
-### a. Nifti Brain Maps (Consortium Paper)
-### b. SST Response Paper 
-### 2.2 Modified
-#### 2.2.1 Images
-##### 2.2.1.1 DAIRC
+### 2.1 Raw
+#### 2.1.1 NDA
+#### 2.1.2 Imaging
+##### 2.1.2.1 DAIRC
 VACC Directory:
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/baseline_year_1_arm_1
-##### 2.2.1.1 DCAN(dtseries)
+
+
+### 2.2 Modified
+#### 2.2.1 NDA
+#### 2.2.2 Imaging
+### a. Nifti Brain Maps (Consortium Paper)
+### b. SST Response Paper 
+##### 2.2.2 Timeseries
+2.2.2. DCAN(dtseries)
 ###### a. NBack (ABCD_hcp_pipelne)
 VACC Directory:
 /gpfs2/scratch/Julian/ABCD_HCP_BIDS/nback_dtseries
@@ -25,7 +30,7 @@ VACC Directory:
 ### 3.3.1 Raw 
 VACC Directory:
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/ABCDStudyNDAr3
-### 3.3.2 Images
+### 3.3.2 Imaging
 VACC Directory:
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/ABCDStudyNDAr3/aurora01/aurora01
 ### 3.3.3 Genetics
