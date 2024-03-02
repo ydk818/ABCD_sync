@@ -29,8 +29,8 @@ VACC Directory:
 /users/d/y/dyuan/nback_connectivity
 ###### c. NBack Brain Activation
 VACC Directory:
-/users/d/y/dyuan/glasser_glm
-(Vertex level)
+/users/d/y/dyuan/glasser_glm 
+VACC Directory (Vertex level):
 /users/d/y/dyuan/DCAN_nback
 
 
@@ -52,22 +52,20 @@ VACC Directory:
 ## 4.  Release 4.0
 
 ### 4.1 Raw
-#### 4.3.1.1 NDA 
+#### 4.1.1.NDA 
 /gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4
 
 ## 5.  Release 5.0 
 
-### 3.3.1 Raw 
-### 3.3.2 Images
+### 5.1 Raw 
+### 5.2 Imaging
 VACC Directory:
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_5/tfmri
 
 ## 6.  Release 6.0
 
-### 3.3.1 Raw 
-### 3.3.2 Images
-
-### 3.3.2.1 Image
+### 6.1 Raw 
+### 6.2 Modified
 VACC Directory:
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_6/tfmri
 
