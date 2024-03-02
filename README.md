@@ -17,17 +17,17 @@ VACC Directory:
 ### 2.2 Modified
 #### 2.2.1 NDA
 #### 2.2.2 Imaging
-### a. Nifti Brain Maps (Consortium Paper)
-### b. SST Response Paper 
-##### 2.2.3 Timeseries
+##### a. Nifti Brain Maps (Consortium Paper)
+##### b. SST Response Paper 
+#### 2.2.3 Timeseries
 2.2.3 DCAN(dtseries)
-###### a. NBack (ABCD_hcp_pipelne)
+##### a. NBack (ABCD_hcp_pipelne)
 VACC Directory:
 /gpfs2/scratch/Julian/ABCD_HCP_BIDS/nback_dtseries
-###### b. NBack Connectivity
+##### b. NBack Connectivity
 VACC Directory:
 /users/d/y/dyuan/nback_connectivity
-###### c. NBack Brain Activation
+##### c. NBack Brain Activation
 VACC Directory:
 /users/d/y/dyuan/glasser_glm 
 VACC Directory (Vertex level):
