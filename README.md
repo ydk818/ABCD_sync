@@ -29,6 +29,8 @@ VACC Directory:
 /users/d/y/dyuan/nback_connectivity
 ###### c. NBack Brain Activation
 VACC Directory:
+/users/d/y/dyuan/glasser_glm
+(Vertex level)
 /users/d/y/dyuan/DCAN_nback
 
 
