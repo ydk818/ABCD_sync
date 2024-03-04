@@ -24,10 +24,12 @@ VACC Directory:<br>
 VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/volumetric/derivatives/abcd-hcp-pipeline
 ##### b. NBack Brain Activation
-ROI_level Glasser Parcellation <br>
+* ROI_level Glasser Parcellation <br>
 147MB  9 files 
-VACC Directory:/users/d/y/dyuan/glasser_glm <br>
-Vertex_level <br>
+VACC Directory:<br>
+147MB  9 files /users/d/y/dyuan/glasser_glm <br>
+
+* Vertex_level <br>
 25.7 GB 9 files <br>
 VACC Directory: <br>
 /users/d/y/dyuan/DCAN_nback
@@ -37,12 +39,14 @@ VACC Directory: <br>
 ? files 4.5T <br>
 VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/nback_dtseries
-##### b. NBack Connectivity
+##### b. NBack Timeseries
 Timeseries data with Gordon, Glasser, Difumo64,and Difumo256 parcellation with concatenated, run1, and run2<br>
+58296 files 19.2 GB <br>
 VACC Directory:<br>
 /users/d/y/dyuan/nback_connectivity/data/timeseries_base
-##### 2.2.4 Connectivity
+##### 2.2.4 Nback Connectivity
 Correlation Matrices with Gordon, Glasser, Difumo64,and Difumo256 parcellation with concatenated, run1, and run2<br>
+58296 files 29.2 GB <br>
 VACC Directory:<br>
 /users/d/y/dyuan/nback_connectivity/data/connectomes_base
 
