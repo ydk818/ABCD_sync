@@ -100,6 +100,7 @@ VACC Directory:<br>
 
 ### 5.1 Raw 
 #### 5.1.1 Imaging
+245 file 308.73 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_5/tfmri
 
@@ -107,6 +108,7 @@ VACC Directory:<br>
 
 ### 6.1 Raw 
 #### 6.1.1 Imaging
+245 file 382.01 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_6/tfmri
 
