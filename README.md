@@ -8,68 +8,90 @@ This repository is the NERVE Lab's modified ABCD Data from Release 2.0 (Baseline
 
 ### 2.1 Raw
 #### 2.1.1 NDA
+
 #### 2.1.2 Imaging
 ##### 2.1.2.1 DAIRC
-VACC Directory:
+658MB 48 files <br>
+VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/baseline_year_1_arm_1
 
 
 ### 2.2 Modified
 #### 2.2.1 NDA
 #### 2.2.2 Imaging
-##### a. Nifti Brain Maps (Consortium Paper)
-##### b. SST Response Paper 
+##### a. Volumetric ABCD
+77GB 43 files <br>
+VACC Directory:<br>
+/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/volumetric/derivatives/abcd-hcp-pipeline
+##### b. NBack Brain Activation
+ROI_level Glasser Parcellation <br>
+147MB  9 files 
+VACC Directory:/users/d/y/dyuan/glasser_glm <br>
+Vertex_level <br>
+25.7 GB 9 files <br>
+VACC Directory: <br>
+/users/d/y/dyuan/DCAN_nback
+##### c. SST Response Paper 
 #### 2.2.3 Timeseries
 2.2.3 DCAN(dtseries)
 ##### a. NBack (ABCD_hcp_pipelne)
-VACC Directory:
-/gpfs2/scratch/Julian/ABCD_HCP_BIDS/nback_dtseries
+? files 4.5T <br>
+VACC Directory:<br>
+/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/nback_dtseries
 ##### b. NBack Connectivity
-VACC Directory:
-/users/d/y/dyuan/nback_connectivity
-##### c. NBack Brain Activation
-VACC Directory:
-/users/d/y/dyuan/glasser_glm 
-VACC Directory (Vertex level):
-/users/d/y/dyuan/DCAN_nback
-
+Timeseries data with Gordon, Glasser, Difumo64,and Difumo256 parcellation with concatenated, run1, and run2<br>
+VACC Directory:<br>
+/users/d/y/dyuan/nback_connectivity/data/timeseries_base
+##### 2.2.4 Connectivity
+Correlation Matrices with Gordon, Glasser, Difumo64,and Difumo256 parcellation with concatenated, run1, and run2<br>
+VACC Directory:<br>
+/users/d/y/dyuan/nback_connectivity/data/connectomes_base
 
 ## 3.  Release 3.0 
 ### 3.1 Raw 
 #### 3.1.1 NDA 
-VACC Directory:
+VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/ABCDStudyNDAr3
 #### 3.1.2 Imaging
-VACC Directory:
+VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/ABCDStudyNDAr3/aurora01/aurora01
 #### 3.1.3 Genetics
-VACC Directory:
+VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
 ### 3.2 Modified 
 #### 3.2.1 NDA 
-VACC Directory:
+VACC Directory:<br>
 /gpfs1/home/s/a/sahahn/ABCD_Data
 #### 3.2.2 Imaging
-##### a. SST ((contrast_beta, vertex, subcortical vertex_qced))
+##### a. SST 
+contrast_beta, vertex, subcortical vertex_qced <br>
+VACC Directory:<br>
 /gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data
 
 ## 4.  Release 4.0
 
 ### 4.1 Raw
 #### 4.1.1.NDA 
-/gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4
+378 files ?
+VACC Directory:<br> 
+/gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4 
+#### 4.1.2 Imaging
+#### 4.1.2.1 DAIRC
+48 files ?
+VACC Directory:<br> 
+/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/2_year_follow_up_y_arm_1
 
 ## 5.  Release 5.0 
 
 ### 5.1 Raw 
 ### 5.2 Imaging
-VACC Directory:
+VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_5/tfmri
 
 ## 6.  Release 6.0
 
 ### 6.1 Raw 
 ### 6.2 Modified
-VACC Directory:
+VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_6/tfmri
 
