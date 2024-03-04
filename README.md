@@ -66,7 +66,7 @@ VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
 ### 3.2 Modified 
 #### 3.2.1 NDA 
-1 file 
+1 file 13.23 GB
 VACC Directory:<br>
 /gpfs1/home/s/a/sahahn/ABCD_Data/nda3.0.csv
 #### 3.2.2 Imaging
@@ -79,7 +79,7 @@ VACC Directory:<br>
 
 ### 4.1 Raw
 #### 4.1.1.NDA 
-378 files ?
+378 files 
 VACC Directory:<br> 
 /gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4 
 #### 4.1.2 Imaging
