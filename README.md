@@ -53,18 +53,22 @@ VACC Directory:<br>
 ## 3.  Release 3.0 
 ### 3.1 Raw 
 #### 3.1.1 NDA 
+311 files 12.32 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/ABCDStudyNDAr3
 #### 3.1.2 Imaging
+4545 files 2.95 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/ABCDStudyNDAr3/aurora01/aurora01
 #### 3.1.3 Genetics
+97 files 9.45 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
 ### 3.2 Modified 
 #### 3.2.1 NDA 
+1 file 
 VACC Directory:<br>
-/gpfs1/home/s/a/sahahn/ABCD_Data
+/gpfs1/home/s/a/sahahn/ABCD_Data/nda3.0.csv
 #### 3.2.2 Imaging
 ##### a. SST 
 contrast_beta, vertex, subcortical vertex_qced <br>
