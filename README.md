@@ -27,7 +27,7 @@ VACC Directory:<br>
 * ROI_level Glasser Parcellation <br>
 147MB  9 files 
 VACC Directory:<br>
-147MB  9 files /users/d/y/dyuan/glasser_glm <br>
+/users/d/y/dyuan/glasser_glm <br>
 
 * Vertex_level <br>
 25.7 GB 9 files <br>
@@ -36,7 +36,7 @@ VACC Directory: <br>
 ##### c. SST Response Paper 
 #### 2.2.3 Timeseries
 ##### a. NBack DCAN(dtseries) (ABCD_hcp_pipelne)
-? files 4.5T <br>
+47093 files 4.5T <br>
 VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/nback_dtseries
 ##### b. NBack Timeseries
