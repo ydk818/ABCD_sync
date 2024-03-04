@@ -84,21 +84,21 @@ VACC Directory:<br>
 /gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4 
 #### 4.1.2 Imaging
 #### 4.1.2.1 DAIRC
-48 files 330MB
+48 files 330MB <br>
 VACC Directory:<br> 
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/2_year_follow_up_y_arm_1
 
 ## 5.  Release 5.0 
 
 ### 5.1 Raw 
-### 5.1.1 Imaging
+#### 5.1.1 Imaging
 VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_5/tfmri
 
 ## 6.  Release 6.0
 
 ### 6.1 Raw 
-### 6.1.1 Imaging
+#### 6.1.1 Imaging
 VACC Directory:<br>
 /gpfs2/scratch/eepearso/ABCD_data/vertexwise_release_6/tfmri
 
