@@ -33,8 +33,7 @@ VACC Directory: <br>
 /users/d/y/dyuan/DCAN_nback
 ##### c. SST Response Paper 
 #### 2.2.3 Timeseries
-2.2.3 DCAN(dtseries)
-##### a. NBack (ABCD_hcp_pipelne)
+##### a. NBack DCAN(dtseries) (ABCD_hcp_pipelne)
 ? files 4.5T <br>
 VACC Directory:<br>
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/nback_dtseries
