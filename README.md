@@ -69,11 +69,6 @@ VACC Directory:<br>
 1 file 13.23 GB
 VACC Directory:<br>
 /gpfs1/home/s/a/sahahn/ABCD_Data/nda3.0.csv
-#### 3.2.2 Imaging
-##### a. SST 
-contrast_beta, vertex, subcortical vertex_qced <br>
-VACC Directory:<br>
-/gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data
 
 ## 4.  Release 4.0
 
@@ -87,6 +82,19 @@ VACC Directory:<br>
 48 files 330MB <br>
 VACC Directory:<br> 
 /gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/2_year_follow_up_y_arm_1
+#### 3.2.2 SST
+##### a. Contrasts_betas
+3 files 826MB <br>
+VACC Directory:<br>
+/gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data/contrast_betas/
+##### b. SST_subcortical_qced
+7 files 42MB <br>
+VACC Directory:<br>
+/gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data/sst_subcortical_data_qced/
+##### c. SST_vertex_data
+12 files 10.22GB <br>
+VACC Directory:<br>
+/gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data/sst_vertex_data/
 
 ## 5.  Release 5.0 
 
