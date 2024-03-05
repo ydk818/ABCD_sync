@@ -19,11 +19,8 @@ VACC Directory:<br>
 ### 2.2 Modified
 #### 2.2.1 NDA
 #### 2.2.2 Imaging
-##### a. Volumetric ABCD
-77GB 43 files <br>
-VACC Directory:<br>
-/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/volumetric/derivatives/abcd-hcp-pipeline
-##### b. NBack Brain Activation
+
+##### a. NBack Brain Activation
 * ROI_level Glasser Parcellation <br>
 147MB  9 files 
 VACC Directory:<br>
@@ -33,7 +30,7 @@ VACC Directory:<br>
 25.7 GB 9 files <br>
 VACC Directory: <br>
 /users/d/y/dyuan/DCAN_nback
-##### c. SST Response Paper 
+##### b. SST Response Paper 
 #### 2.2.3 Timeseries
 ##### a. NBack DCAN(dtseries) (ABCD_hcp_pipelne)
 47093 files 4.5T <br>
