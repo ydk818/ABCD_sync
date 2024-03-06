@@ -1,5 +1,5 @@
 # ABCD_sync
-## 1. Introduction
+## 1. Overview
 This repository is the NERVE Lab's modified ABCD Data from Release 2.0 (Baseline), Release 3.0 (Followup Year 1, Release 4.0 (Followup Year 1), Release 5.0 (Followup Year 2), and Release 6.0 (Followup Year 2) for the various studies.
 
 
@@ -30,7 +30,7 @@ VACC Directory:<br>
 25.7 GB 9 files <br>
 VACC Directory: <br>
 /users/d/y/dyuan/DCAN_nback
-##### b. SST Response Paper 
+
 #### 2.2.3 Timeseries
 ##### a. NBack DCAN(dtseries) (ABCD_hcp_pipelne)
 47093 files 4.5T <br>
@@ -61,6 +61,12 @@ VACC Directory:<br>
 97 files 9.45 GB <br>
 VACC Directory:<br>
 /gpfs2/scratch/mpmccabe/Workspace/datasets/ABCD/genetics/ABCDr3
+#### 3.1.4 Raw Fitbit
+54321 files 47.44GB <br>
+VACC Directory:<br>
+/users/d/y/dyuan/RawFitbit
+
+/users/d/y/dyuan/RawFitbit
 ### 3.2 Modified 
 #### 3.2.1 NDA 
 1 file 13.23 GB
