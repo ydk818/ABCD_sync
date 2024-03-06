@@ -65,8 +65,6 @@ VACC Directory:<br>
 54321 files 47.44GB <br>
 VACC Directory:<br>
 /users/d/y/dyuan/RawFitbit
-
-/users/d/y/dyuan/RawFitbit
 ### 3.2 Modified 
 #### 3.2.1 NDA 
 1 file 13.23 GB
