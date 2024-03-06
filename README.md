@@ -70,19 +70,6 @@ VACC Directory:<br>
 1 file 13.23 GB
 VACC Directory:<br>
 /gpfs1/home/s/a/sahahn/ABCD_Data/nda3.0.csv
-
-## 4.  Release 4.0
-
-### 4.1 Raw
-#### 4.1.1.NDA 
-378 files 
-VACC Directory:<br> 
-/gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4 
-#### 4.1.2 Imaging
-#### 4.1.2.1 DAIRC
-48 files 330MB <br>
-VACC Directory:<br> 
-/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/2_year_follow_up_y_arm_1
 #### 3.2.2 SST
 ##### a. Contrasts_betas
 3 files 826MB <br>
@@ -96,6 +83,20 @@ VACC Directory:<br>
 12 files 10.22GB <br>
 VACC Directory:<br>
 /gpfs1/home/m/p/mpmccabe/Projects/sage_predict_ssrt/sage_predict_ssrt/raw_data/sst_vertex_data/
+
+## 4.  Release 4.0
+
+### 4.1 Raw
+#### 4.1.1.NDA 
+378 files 
+VACC Directory:<br> 
+/gpfs2/scratch/nallgaie/data/ABCDStudyNDAr4 
+#### 4.1.2 Imaging
+#### 4.1.2.1 DAIRC
+48 files 330MB <br>
+VACC Directory:<br> 
+/gpfs2/scratch/acjulian/ABCD_HCP_BIDS/DAIRC_ROI_data/tsv_files/2_year_follow_up_y_arm_1
+
 
 ## 5.  Release 5.0 
 
