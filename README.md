@@ -22,7 +22,7 @@ VACC Directory:<br>
 
 ##### a. NBack Brain Activation
 * ROI_level Glasser Parcellation <br>
-147MB  9 files 
+147MB  9 files <br>
 VACC Directory:<br>
 /users/d/y/dyuan/glasser_glm <br>
 
